@@ -1,0 +1,12 @@
+# role format -- to be added under "roles:"
+# roleName:
+#     name: name
+#     id: id
+#
+# to get the id of a role, type in your discord guild: \@role
+# you'll get a number between two brakets; that's the role. Or just use the automated adm!addrole command.
+
+roles:
+    romanian:
+        name:
+        id:
